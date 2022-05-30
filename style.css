@@ -29,7 +29,7 @@ body {
   width: 500px;
   margin: 0 auto 0;
 }
-.add-element__input{
+.add-element__input {
   width: 56%;
   display: inline-block;
   flex-grow: 1;
@@ -44,10 +44,10 @@ body {
 .list__item {
   list-style: none;
 }
-.add-element__input{
+.add-element__input {
   outline: none; 
 }
-.list__input{
+.list__input {
   outline: none;
 }
 .btn {
@@ -73,7 +73,7 @@ body {
   margin: 0;
   text-transform: uppercase;    
 }
-.done__title{
+.done__title {
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -91,7 +91,7 @@ body {
   margin: 0;
   text-transform: uppercase;
 }
-.add-element__input{
+.add-element__input {
   margin: 0;
   font-size: 18px;
   line-height: 18px;
@@ -115,7 +115,7 @@ body {
   font-family: Lato, sans-serif;
   color: #888;
 }
-.add-element__input:focus{
+.add-element__input:focus {
   color: #333;  
 }
 .list__input__text:focus {
@@ -130,7 +130,7 @@ body {
 .add-element__input {
   width: 318px;
 }
-.list__input__text{
+.list__input__text {
     width: 56%;
     display: inline-block;
     flex-grow: 1;
@@ -177,7 +177,7 @@ body {
 
 /* done */
 .done__list .list__label {
-  text-decoration: line-through
+  text-decoration: line-through;
   color: #888;
 }
 
