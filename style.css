@@ -45,10 +45,10 @@ body {
   list-style: none;
 }
 .add-element__input{
-  outline:none; 
+  outline: none; 
 }
 .list__input{
-  outline:none;
+  outline: none;
 }
 .btn {
   outline: none;
