@@ -18,9 +18,11 @@ body {
 }
 
 @media (max-width:768px) {
+  
   .header { 
     text-align: center;
   }
+  
 }
 .main {
   display: block;
@@ -43,10 +45,10 @@ body {
   list-style: none;
 }
 .add-element__input{
-  outline: none; 
+  outline:none; 
 }
 .list__input{
-  outline: none;
+  outline:none;
 }
 .btn {
   outline: none;
@@ -175,7 +177,7 @@ body {
 
 /* done */
 .done__list .list__label {
-  text-decoration: line-through;
+  text-decoration: line-through
   color: #888;
 }
 
